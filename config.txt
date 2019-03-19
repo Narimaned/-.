@@ -1,0 +1,6 @@
+owner=539506830724825098
+prefix=
+game=STY | Nplay
+stayinchannel=true
+songinstatus=false
+token=NTU3NTM0NDIyNjEwNzM5MjEw.D3JyBA.p3laJOROM3wYaRyeaJEs1WJNQ5M
